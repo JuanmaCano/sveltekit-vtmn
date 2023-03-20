@@ -6,6 +6,6 @@
 	import "@vtmn/icons/dist/vitamix/font/vitamix.css";
 </script>
 
-<div class="vtmn-p-10">
+<div class="vtmn-container vtmn-p-10">
 	<slot />
 </div>
